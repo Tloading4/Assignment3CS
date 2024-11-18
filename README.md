@@ -8,7 +8,8 @@ Query 1
 
 Query 2
 
-<img width="1229" alt="image" src="https://github.com/user-attachments/assets/ad0dcdda-14c9-4b33-a1e9-3e7ff8e16ad9">
+<img width="1262" alt="image" src="https://github.com/user-attachments/assets/ff4cc4fa-3e9c-4b22-b34a-d6ea993c13f7">
+
 
 Query 3
 
